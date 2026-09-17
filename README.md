@@ -13,6 +13,6 @@ Books to help your data science career and education
 - [A Whirlwind Tour of Python](https://github.com/tzucker02/DataScienceBooks/raw/main/Python/A%20Whirlwind%20Tour%20of%20Python.pdf)
 - [Python 3.13.1 tutorial](https://github.com/tzucker02/DataScienceBooks/raw/main/Python/Python%203.13.1%20tutorial.pdf)
 ## Statistics
-- [Applied Univariate and Multivariate Statistics] (https://github.com/tzucker02/DataScienceBooks/raw/main/Statistics/APPLIED%20UNIVARIATE%2C%20BIVARIATE%2C%20AND%20MULTIVARIATE%20STATISTICS%20-%20Daniel%20J.%20Denis_2016.pdf)
-- [Foundations of Statistics] (https://github.com/tzucker02/DataScienceBooks/raw/main/Statistics/Foundations%20of%20Statistics%20for%20Data%20Scientists_%20With%20R%20and%20Python%20-%20Alan%20Agresti%2C%20Maria%20Kateri%20-%20(Chapman%20%26%20Hall_CRC%20Texts%20in%20Statistical%20Science).pdf)
-- [Statitical foundations of Data] (https://github.com/tzucker02/DataScienceBooks/raw/main/Statistics/Statistical%20Foundations%20Of%20Data%20Science%20(2020%2C%20Chapman%26Hall_CRC%20_Taylor%20%26%20Francis%20Group)%20-%20sm.pdf)
+- [Applied Univariate and Multivariate Statistics](https://github.com/tzucker02/DataScienceBooks/raw/main/Statistics/APPLIED%20UNIVARIATE%2C%20BIVARIATE%2C%20AND%20MULTIVARIATE%20STATISTICS%20-%20Daniel%20J.%20Denis_2016.pdf)
+- [Foundations of Statistics](https://github.com/tzucker02/DataScienceBooks/raw/main/Statistics/Foundations%20of%20Statistics%20for%20Data%20Scientists_%20With%20R%20and%20Python%20-%20Alan%20Agresti%2C%20Maria%20Kateri%20-%20(Chapman%20%26%20Hall_CRC%20Texts%20in%20Statistical%20Science).pdf)
+- [Statitical foundations of Data](https://github.com/tzucker02/DataScienceBooks/raw/main/Statistics/Statistical%20Foundations%20Of%20Data%20Science%20(2020%2C%20Chapman%26Hall_CRC%20_Taylor%20%26%20Francis%20Group)%20-%20sm.pdf)
