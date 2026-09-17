@@ -9,6 +9,10 @@ Books to help your data science career and education
 - [Patterns, Predictions and Actions](https://github.com/tzucker02/DataScienceBooks/raw/main/Machine%20Learning/patterns%20predictions%20and%20actions.pdf)
 ## Mathematics
 - [Introduction to Applied Linear Algebra](https://github.com/tzucker02/DataScienceBooks/raw/main/Mathematics/introduction%20to%20applied%20linear%20algebra.pdf)
+- [Essential Math for Data Science](https://github.com/tzucker02/DataScienceBooks/raw/main/Mathematics/Essential%20Math%20for%20Data%20Science.pdf)
+- [Linear Algebra for Data Science](https://github.com/tzucker02/DataScienceBooks/raw/main/Mathematics/Linear%20algebra%20for%20data%20science%20textbook.pdf)
+- [Linear Algebra for Data Science - O'Reilly](https://github.com/tzucker02/DataScienceBooks/raw/main/Mathematics/LIBGEN%20-%20OREILLY%20-%20Linear%20Algebra%20for%20Data%20Science_%20From%20Core%20Concepts%20to%20Applications%20Using%20Python%20(2022).pdf)
+- [Introduction to Applied Linear Algebra](https://github.com/tzucker02/DataScienceBooks/raw/main/Mathematics/introduction%20to%20applied%20linear%20algebra.pdf)
 ## Python
 - [A Whirlwind Tour of Python](https://github.com/tzucker02/DataScienceBooks/raw/main/Python/A%20Whirlwind%20Tour%20of%20Python.pdf)
 - [Python 3.13.1 tutorial](https://github.com/tzucker02/DataScienceBooks/raw/main/Python/Python%203.13.1%20tutorial.pdf)
