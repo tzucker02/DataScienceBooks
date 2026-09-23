@@ -1,6 +1,6 @@
 ### [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
-[See the full list of texts](https://github.com/tzucker02/DataScienceBooks/)
+[See the full list of texts](https://github.com/tzucker02/DataScienceBooks/blob/main/README.md)
 # Data Science Books
 Books to help your data science career and education
 
